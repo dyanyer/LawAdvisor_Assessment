@@ -1,0 +1,38 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+env/
+venv/
+
+# Playwright's screenshots and videos
+screenshots/
+videos/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache directories
+*.cache
+
+# Test reports
+*.xml
+*.json
+
+# Jupyter Notebooks checkpoints (if you use Jupyter Notebooks)
+.ipynb_checkpoints/
+
+# Python environment directories
+.env/
+.venv/
+
+# pytest cache directory
+.cache/
